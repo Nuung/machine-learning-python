@@ -1,11 +1,11 @@
-# 생활 코딩 - 오픈 튜토리얼스
-> 머신러닝 야학 작심 10일 
+# Machine-Learning with python (jupyter)
+> 머신러닝 야학 작심 10일과 쥬피터 노트북 기반 데이터 사이언스 시작
 
 
 ## 머신 러닝 1 
 - [강의 페이지](https://opentutorials.org/course/4548)
 
-## 텐서플로 JS
+## 텐서플로
 - [강의 페이지]()
 
 - - -
