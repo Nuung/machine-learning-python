@@ -4,6 +4,7 @@
 ## 들어가기전
 - https://nbviewer.org/ 페이지를 통해서 쥬피터 노트북 내용을 볼 수 있다.
 - 위 페이지에서 현재 레포 기준 'https://github.com/Nuung/machine-learning-python/tree/master/python-jupyter' 을 넣으면 쥬피터 노트북을 public으로 접근할 수 있다. 
+- 쥬피터 가장 간단 공유 세부 내용은 https://stackoverflow.com/questions/31855794/how-can-i-share-jupyter-notebooks-with-non-programmers 에서 확인이 가능하다. 
 
 ## 머신 러닝 1 
 - [강의 페이지](https://opentutorials.org/course/4548)
