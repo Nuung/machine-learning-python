@@ -1,0 +1,33 @@
+변수명,속성명
+BF_M3_AVG_CAL_USER,최근 3개월 평균 문자량
+BF_M3_AVG_MSG_USER,최근 3개월 평균 통화대상자 수
+HDAY_N_HOME_TOT_DURATION,최근 3개월 휴일 외출 건 수
+HDAY_N_TOT_MOVE_CNT,복지로 app/web 사용 일수
+HDAY_N_TOT_MOVE_DISTANCE,휴일 집근처 체류시간
+HDAY_Y_HOME_TOT_DURATION,평일 집근처 체류시간
+HDAY_Y_TOT_MOVE_CNT,최근 3개월 평일 외출 건 수
+HDAY_Y_TOT_MOVE_DISTANCE,최근 3개월 평일 이동거리
+LEISURE_APPLIFE_FINANCE,교육/학습 app/web 사용 일수
+LEISURE_APPLIFE_GAME,지하철이동일수_월별
+LEISURE_APPLIFE_SHOPPING,생활 app/web 사용 일수
+LEISURE_DELIVERY_BRAND,배달_배달 app/web 사용 일수
+LEISURE_DELIVERY_DELIVERY,넷플릭스(Netflix) app/web 사용 지수
+LEISURE_DELIVERY_FOOD,배달_브랜드 기타 app/web 사용 일수
+LEISURE_NETFLIX,유튜브(Youtube) app/web 사용 지수
+LEISURE_VIDEO_BROADCAST,sVOD app/web 사용 일수
+LEISURE_YOUTUBE,엔터테인먼트 기타 app/web 사용 일수
+LTR_USE_CNT,최근 3개월 평균 통화량
+MOVE_TIME,2021년 07월 근무지 행정동코드
+MOVE_TYPE_SUBWAY_DT_CNT,기차이용횟수_월별
+SML_SETTL_AMT,최근 3개월 소액결재 사용회수
+SOCIALITY_INDEX,가계부 app/web 사용 일수
+VOICE_TC_TMS,카카오톡 app/web 사용 지수
+WORKING_TIME,평균 출근 소요시간
+home_change,없음
+work_change,없음
+BF_M3_OVERDUE_YN_Y,없음
+HM_CNT_1,없음
+WLF_DC_CD,"장애인 여부, 유형"
+WLF_RDTN_TYP_CD,최근 3개월 평균 데이터 사용량
+SD_CD_1,없음
+AGE,성별
